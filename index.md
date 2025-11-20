@@ -1,6 +1,6 @@
 # Introduction to single-cell RNA-seq data analysis
 
-### 12th, 19th, 26th February 2025 || 09:30 - 17:00
+### 28th Nov, 1st and 4th Dec 2025 || 09:30 - 17:00
 #### Online via Zoom
 
 ![](UnivCambridge_ScRnaSeqIntro_Base/Images/uniOfCamCrukLogos.png)
