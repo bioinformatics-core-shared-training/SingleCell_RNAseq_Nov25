@@ -89,6 +89,7 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 * 15:35 - 17:30 **Batch correction and data set integration** - Abbi
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_Dataset_Integration.html)
+    + [Ian's Script](live_scripts/diff_exp_ian_day2.R)
 
 ### Day 3
 
