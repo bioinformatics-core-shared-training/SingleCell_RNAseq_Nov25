@@ -1,6 +1,6 @@
 # Introduction to single-cell RNA-seq data analysis
 
-### 12th, 19th, 26th February 2025 || 09:30 - 17:00
+### 28th Nov, 1st and 4th Dec 2025 || 09:30 - 17:00
 #### Online via Zoom
 
 ![](UnivCambridge_ScRnaSeqIntro_Base/Images/uniOfCamCrukLogos.png)
@@ -10,8 +10,7 @@
 - Abbi Edwards (CRUK)
 - Betty Wang (Clinical Neurosciences)
 - Chandra Chilamakuri (CRUK)
-- Jiayin Hong (Sanger Institute)
-- Erin Doody (Sainsbury Laboratory)
+- Hugo Tavares (CRIT)
 - Guest Speaker: Kasia Kania (Cosyne Therapeutics)
 
 ## Outline
@@ -55,7 +54,7 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 ### Day 1
 
 
-* 09:30 - 09:45 **Welcome** - Hugo
+* 09:30 - 09:45 **Welcome** - Abbi
 * 09:45 - 10:30 **Introduction to Single Cell Technologies** - Katarzyna Kania
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/01_Introduction.pdf)
 * 10:30 - 10:44 **Preamble**: data set and workflow - Chandra
@@ -65,7 +64,7 @@ of gene expression data, such as TSNE, UMAP and violin plots.
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/03_CellRanger.html)
 * 12:30 - 13:30 **Lunch break**
-* 13:30 - 17:00 **QC and exploratory analysis** - Erin
+* 13:30 - 17:00 **QC and exploratory analysis** - Abbi
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)
         <!-- + [Demo live script](live_scripts/04_demonstration_live_script.R) -->
@@ -75,18 +74,18 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 ### Day 2
 
 
-* 09:30 - 09:40 **Recap** - Chandra
+* 09:30 - 09:40 **Recap** - Abbi
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/00_Day1_Recap.html)
-* 09:40 - 12:30 **Normalisation** - Chandra
+* 09:40 - 12:30 **Normalisation** - Abbi
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html)    
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises.html)
 * 12:30 - 13:30 **lunch break**
-* 13:30 - 15:25 **Feature selection and dimensionality reduction** - Jiayin
+* 13:30 - 15:25 **Feature selection and dimensionality reduction** - Chandra
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html)
 * 15:25 - 15:35 10 min **break**
-* 15:35 - 17:30 **Batch correction and data set integration** - Abbi
+* 15:35 - 17:30 **Batch correction and data set integration** - Hugo
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_Dataset_Integration.html)
     + [Ian's Script](live_scripts/diff_exp_ian_day2.R)
@@ -98,11 +97,11 @@ of gene expression data, such as TSNE, UMAP and violin plots.
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering.html)
 * 11:05 - 11:15 10 min **break**
-* 11:15 - 12:30 **Identification of cluster marker genes** - Betty
+* 11:15 - 12:30 **Identification of cluster marker genes** - Chandra
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_Cluster_Marker_Genes.html)
 * 12:30 - 13:30 **lunch break**
-* 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Chandra (DE) & Abbi (DA)
+* 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Betty (DE) & Chandra (DA)
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_DifferentialExpressionAndAbundance.pdf) 
     + [Demonstration - Differential Expression](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_Differential_Expression.html)
     + [Demonstration - Differential Abundance](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/11_Differential_Abundance.html)
