@@ -85,7 +85,7 @@ of gene expression data, such as TSNE, UMAP and violin plots.
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html)
 * 15:25 - 15:35 10 min **break**
-* 15:35 - 17:30 **Batch correction and data set integration** - Hugo
+* 15:35 - 17:30 **Batch correction and data set integration** - Betty
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_Dataset_Integration.html)
    
